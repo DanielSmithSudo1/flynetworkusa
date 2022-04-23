@@ -1,10 +1,10 @@
 {
-  "name": "Welcome",
-  "description": "Welcome!",
-  "keywords": ["1"],
+  "name": "StartupEngine",
+  "description": "A beautiful, open-source, free CMS for startups.",
+  "keywords": ["CMS"],
   "env": {
   },
-  "website": "",
-  "repository": "",
+  "website": "https://startupengine.herokuapp.com",
+  "repository": "https://github.com/DanielSmithSudo1/flynetworkusa",
   "stack": "container"
  }
